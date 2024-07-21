@@ -1,0 +1,5 @@
+fastapi
+llama_index
+requests
+beautifulsoup4
+uvicorn

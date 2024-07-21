@@ -3,3 +3,4 @@ llama_index
 requests
 beautifulsoup4
 uvicorn
+llama-index-llms-groq
